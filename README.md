@@ -1,4 +1,5 @@
 # StringHunt
+This project is based on [abandoned-strings](https://github.com/ijoshsmith/abandoned-strings) by [@ijoshsmith](https://github.com/ijoshsmith).
 
 A Swift command-line tool to find unused localized strings in iOS/macOS projects.
 
@@ -79,10 +80,6 @@ The tool outputs a list of unused string keys to the console. You can redirect t
 ```bash
 ./main.swift /path/to/your/project > unused_strings.txt
 ```
-
-## License
-
-MIT License
 
 ## Contributing
 
